@@ -41,10 +41,10 @@ Just below the name you can see the **User's bio** you can click on the ***edit 
   Contains an array of objects i.e User details **_( Currently only 4 )_**
   **_Schema : {_**  
    **_name : String,_**
-  **_profilePic : String_**
-  **_bio : String_**
-  **_theme : String_**
-  **_about : String_**
+  **_profilePic : String,_**
+  **_bio : String,_**
+  **_theme : String,_**
+  **_about : String,_**
   **_username : String_**
   }
 
@@ -59,7 +59,7 @@ Just below the name you can see the **User's bio** you can click on the ***edit 
   Example : 
   **_{_**
   **_dark : {_**
-  **_primary : [primary color]_**
-  **_secondary : [secondary color]_**
+  **_primary : [primary color],_**
+  **_secondary : [secondary color],_**
   **_}_**
   **_}_**
