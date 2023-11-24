@@ -1,0 +1,11 @@
+.rentok-userview-main {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.rentok-userview-content-div {
+  width: 50%;
+  text-align: left;
+}

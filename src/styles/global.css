@@ -1,0 +1,32 @@
+.rentok-navbar-main {
+  background-color: rgba(66, 153, 225, 0.6);
+  margin-top: 0;
+}
+.rentok-main-parent {
+  width: 100%;
+  margin-top: 0;
+}
+
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+a,
+div,
+span {
+  font-family: Verdana, Geneva, Tahoma;
+}
+body {
+  margin: 0;
+  padding: 0;
+}
+html {
+  margin: 0;
+  padding: 0;
+}
+#__next {
+  margin: 0;
+}
